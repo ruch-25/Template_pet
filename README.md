@@ -1,5 +1,3 @@
-# swa
-Worked on front end and created website on project that is on Pet Adaptation
 <!DOCTYPE html>
 <html lang="en">
 
